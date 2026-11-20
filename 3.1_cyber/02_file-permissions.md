@@ -10,6 +10,8 @@ Run:
 ### Screenshot
 
 (Add screenshot here)
+<img width="1920" height="1200" alt="20261120_152939_grim" src="https://github.com/user-attachments/assets/18bc4822-646d-4f71-bc98-30e6c5bc9131" />
+
 
 ### Questions
 
@@ -32,6 +34,7 @@ Run:
 ### Screenshot
 
 (Add screenshot here)
+<img width="1920" height="1200" alt="20261120_153145_grim" src="https://github.com/user-attachments/assets/f0f52426-2068-4f95-a5be-ac36179e80a0" />
 
 ### Questions
 
@@ -51,6 +54,8 @@ Run:
 ### Screenshot
 
 (Add screenshot here)
+<img width="1920" height="1200" alt="20261120_153220_grim" src="https://github.com/user-attachments/assets/f30a07d4-ca27-4c64-a0d7-c4ed9aa8a5d5" />
+
 
 ### Questions
 
