@@ -1,3 +1,4 @@
+
 # Phishing Investigation
 
 ## Task 1 --- Analyse a Suspicious Email
@@ -48,7 +49,7 @@ Hover over the link in the email (or copy link) and inspect the URL.
 ### Screenshot
 
 (Add screenshot)
-
+<img width="1792" height="1804" alt="Screenshot 2026-11-20 165810" src="https://github.com/user-attachments/assets/da46e685-955f-4b98-8509-8d018a26fe48" />
 ### Questions
 
 1.  Does the displayed link match the actual URL?
