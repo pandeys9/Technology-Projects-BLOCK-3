@@ -1,3 +1,4 @@
+
 # Password Security
 
 ## Task 1 --- Test a Weak Password
@@ -9,6 +10,7 @@ Run:
 ### Screenshot
 
 (Add screenshot here)
+<img width="1920" height="1200" alt="20261120_153504_grim" src="https://github.com/user-attachments/assets/efc5b74a-92e5-44e6-8941-9709b09482f1" />
 
 ### Questions
 
@@ -30,6 +32,8 @@ Run:
 ### Screenshot
 
 (Add screenshot here)
+<img width="1920" height="1200" alt="20261120_153527_grim" src="https://github.com/user-attachments/assets/dbdac0f7-73dd-485d-b800-83897ce0c8fd" />
+
 
 ### Questions
 
