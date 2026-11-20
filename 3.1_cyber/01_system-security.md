@@ -9,6 +9,8 @@ Run:
 ### Screenshot
 
 (Add screenshot here)
+<img width="1920" height="1200" alt="20261120_150420_grim" src="https://github.com/user-attachments/assets/1f13b246-d08e-42a7-b234-01e2fa1a4a90" />
+
 
 ### Questions
 
